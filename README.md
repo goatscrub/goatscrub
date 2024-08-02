@@ -1,5 +1,9 @@
-# Lot of skills for your IT.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,flutter,dart,cs,debian,bash,git,wordpress,laravel,mysql,vim,vscode&perline=5)](https://skillicons.dev)
-<div align="center">
-    <img src="github-readme.svg" width="400" height="400" alt="css-in-readme">
-</div>
+# I like playing with wood, steel, electronics and computers.
+|[]()|
+|---|
+| <img src="https://img.shields.io/badge/html5-%23e04f11?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%233595cf?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23efd81d?style=for-the-badge&logo=javascript&logoColor=%23333"> |
+| <img src="https://img.shields.io/badge/php-%237277ad?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/python-%233776ab?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/dart-045697?style=for-the-badge&logo=dart&logoColor=2bb1ee"> <img src="https://img.shields.io/badge/flutter-2bb1ee?style=for-the-badge&logo=flutter&logoColor=045697"> <img src="https://img.shields.io/badge/C%23-c%20sharp-a179dc?style=for-the-badge&labelColor=rebeccapurple"> |
+| <img src="https://img.shields.io/badge/wordpress-e0e0e0?style=for-the-badge&logo=wordpress&logoColor=21759b"> <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> |
+| <img src="https://img.shields.io/badge/vim-eee?style=for-the-badge&logo=vim&logoColor=019331"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge"> |
+| <img src="https://img.shields.io/badge/debian-crimson?style=for-the-badge&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=android&logoColor=white"> |
+| <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/%24___shell_script-150f23?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/sed_c'est_dien-hotpink?style=for-the-badge"> <img src="https://img.shields.io/badge/awk_spamal-teal?style=for-the-badge">|
